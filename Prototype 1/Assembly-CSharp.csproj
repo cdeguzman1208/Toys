@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\SignalAcceptor.cs" />
+     <Compile Include="Assets\Scripts\TillSoil.cs" />
      <Compile Include="Assets\TriggerScript.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Reference Include="UnityEngine">
