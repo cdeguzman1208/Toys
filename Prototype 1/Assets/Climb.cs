@@ -6,7 +6,7 @@ public class Climb : MonoBehaviour
 {
     // Start is called before the first frame update
 
-    public float threshold = 5.0f;
+    float threshold = 4.5f;
     void Start()
     {
         

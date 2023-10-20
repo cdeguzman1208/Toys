@@ -2178,7 +2178,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8166077044456012819, guid: 0f7ed0b8102fd174da1992791659c686, type: 3}
       propertyPath: threshold
-      value: 10
+      value: 30
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
